@@ -8,7 +8,7 @@
 #############
 
 # Conda environment name
-CONDA_ENV="dedalus2"
+CONDA_ENV="dedalus2new"
 
 # Skip conda prompts
 CONDA_YES=1
